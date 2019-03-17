@@ -4,7 +4,7 @@ const Footer = props => (
   <section className="footer center bg-dark">
     <p>
       {' '}
-      <span> Dan shai &copy; 2018 </span>{' '}
+      <span> Michael Beaulieu - 2019</span>{' '}
     </p>
   </section>
 )

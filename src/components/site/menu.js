@@ -120,7 +120,7 @@ export default class Menu extends React.Component {
 
         <a
           onClick={() => this.hidemenu()}
-          href="https://github.com/DanShai"
+          href="https://github.com/MikeBeaulieuQTech"
           className="alink menu-item green"
         >
           <i className="icon">

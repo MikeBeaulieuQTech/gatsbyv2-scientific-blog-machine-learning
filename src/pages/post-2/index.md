@@ -1,14 +1,13 @@
 ---
-title: Lets be light!
-date: '2018-08-29'
-author: 'dan'
+title: data isolation
+date: '2019-03-15'
+author: 'mike'
 ---
 
-Wow! I love blogging so much already.
+Power BI
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
+One strength and weekness both of Power BI is that fact it allows a data developer to work in complete isolation.
+
 ([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
 
-Yeah, I didn't either.
+

@@ -6,7 +6,7 @@ import Layout from '../components/site/layout'
 const Proj = props => (
   <Layout>
     <Helmet>
-      <title>Projects - Dan </title>
+      <title>Mines Bashboards</title>
       <meta name="description" content="proj" />
     </Helmet>
     <section className="container">
@@ -21,8 +21,7 @@ const Proj = props => (
           </Link>
 
           <p>
-            explicabo consectetur consequatur non nesciunt debitis quos alias
-            soluta, ratione, ipsa officia reiciendis.
+            Football Summaries
           </p>
         </div>
         <div className="box boxshadow">
@@ -31,8 +30,7 @@ const Proj = props => (
           </Link>
 
           <p>
-            explicabo consectetur consequatur non nesciunt debitis quos alias
-            soluta, ratione, ipsa officia reiciendis.
+            Football Analysis
           </p>
         </div>
         <div className="box boxshadow">
@@ -41,8 +39,25 @@ const Proj = props => (
           </Link>
 
           <p>
-            explicabo consectetur consequatur non nesciunt debitis quos alias
-            soluta, ratione, ipsa officia reiciendis.
+            Market Summaries
+          </p>
+        </div>
+        <div className="box boxshadow">
+          <Link className="alink" to="/projects/mines">
+           Historical Dashboard
+          </Link>
+
+          <p>
+            Mineral Mining History
+          </p>
+        </div>
+        <div className="box boxshadow">
+          <Link className="alink" to="/dashboard/AppDashboard1">
+            Some more mines stuff
+          </Link>
+
+          <p>
+            British Columbia open data published....
           </p>
         </div>
       </div>

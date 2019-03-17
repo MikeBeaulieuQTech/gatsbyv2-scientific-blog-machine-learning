@@ -1,10 +1,15 @@
 ---
-title: wtf with u
-date: '2018-08-29'
-author: 'dan'
+title: data lakes
+date: '2019-03-18'
+author: 'mike'
 ---
 
-This is my 4-! yes it is bro
+
+The problem is lack of creativity and vision
+
+The symptom is defering accountability
+
+The enabler is a person who only asks what is asked of them, not what they can do to evolve the understanding.
 
 $a^2 + b^2 = c^2$
 

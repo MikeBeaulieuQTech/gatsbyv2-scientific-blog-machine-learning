@@ -10,15 +10,13 @@ const About = props => (
         <div className="box boxshadow">
           <h3>Hobbies</h3>
           <p>
-          explicabo consectetur consequatur non nesciunt debitis quos alias
-            soluta, ratione, ipsa officia reiciendis.
+          Chess, Ocean Swimming and Wim Hof Method
                   </p>
         </div>
         <div className="box boxshadow">
           <h3>About Me</h3>
           <p>
-          explicabo consectetur consequatur non nesciunt debitis quos alias
-            soluta, ratione, ipsa officia reiciendis.
+I recently moved to Victoria from Edmonton.  Enough said.
                   </p>
         </div>
       </div>

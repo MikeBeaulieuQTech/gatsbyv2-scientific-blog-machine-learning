@@ -7,8 +7,8 @@ const Banner = props => (
   <section className="banner">
     <Menu />
     <div className="banner-content">
-      <img src={omega} className="logo" alt="Dan Shai" />
-      <div className="title">Dan Shai</div>
+      <img src={omega} className="logo" alt="Michael Beaulieu" />
+      <div className="title">Michael Beaulieu</div>
     </div>
   </section>
 )

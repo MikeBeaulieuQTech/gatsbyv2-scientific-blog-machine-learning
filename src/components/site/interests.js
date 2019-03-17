@@ -9,10 +9,9 @@ const Interet = props => (
   <section className="interests">
     <div className="container grid-3 center">
       <div className="box boxshadow">
-        <a href="https://github.com/DanShai">GitHub</a>
+        <a href="https://github.com/MichaelBeaulieuQTech">GitHub</a>
         <p>
-          explicabo consectetur consequatur non nesciunt debitis quos alias
-          soluta, ratione, ipsa officia reiciendis.
+          GitHub is cool
         </p>
       </div>
       <div className="box boxshadow">
@@ -20,8 +19,7 @@ const Interet = props => (
           Blog
         </Link>
         <p>
-          explicabo consectetur consequatur non nesciunt debitis quos alias
-          soluta, ratione, ipsa officia reiciendis.
+          Some blog things
         </p>
       </div>
       <div className="box boxshadow">
@@ -29,8 +27,7 @@ const Interet = props => (
           Projects
         </Link>
         <p>
-          explicabo consectetur consequatur non nesciunt debitis quos alias
-          soluta, ratione, ipsa officia reiciendis.
+          Some projects
         </p>
       </div>
     </div>
