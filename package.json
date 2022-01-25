@@ -14,7 +14,7 @@
     "chart.js": "^2.7.2",
     "classnames": "^2.2.6",
     "gatsby": "next",
-    "gatsby-cli": "^2.4.2",
+    "gatsby-cli": "^4.6.0",
     "gatsby-plugin-favicon": "^3.1.4",
     "gatsby-plugin-manifest": "next",
     "gatsby-plugin-offline": "next",
